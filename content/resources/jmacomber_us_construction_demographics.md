@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 2bea33f6-4fcc-ff46-6705-29ac14c3f4fe
 resourcetype: Document
 title: JMacomber_US_Construction_Demographics.pdf
 uid: 1b2be612-1d57-b889-5c4e-468ed905bcf2

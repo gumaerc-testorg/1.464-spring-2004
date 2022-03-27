@@ -37,6 +37,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 114c88d8-52c5-4d3e-8b33-af02405d49c1
 resourcetype: Document
 title: 5colstrproform.pdf
 uid: 56131948-50d0-82fe-b123-7e937eb4f76f

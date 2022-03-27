@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 2bea33f6-4fcc-ff46-6705-29ac14c3f4fe
 resourcetype: Document
 title: jmacpragvision.pdf
 uid: 3cc719bb-2bb0-3613-db0a-10ece8042d61
