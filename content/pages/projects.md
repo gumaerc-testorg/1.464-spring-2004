@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides details on the major deliverable work for the course.
+  The project can be a white paper for publication, a case study for future teaching
+  use, or a business plan. It is hoped that most of the projects will be conceived
+  by students to follow an area of their interest. Other projects can be on topics
+  suggested by the instructor.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
