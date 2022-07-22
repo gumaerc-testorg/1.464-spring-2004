@@ -5,6 +5,7 @@ file: /courses/1-464-e-commerce-and-the-internet-in-real-estate-and-construction
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 9concludeoutline.pdf
 uid: e6522820-68cd-7d39-7a2c-c2200545d6f3
 ---
 Concluding lecture slides.
-

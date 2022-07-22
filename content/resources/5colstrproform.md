@@ -34,6 +34,7 @@ file: /courses/1-464-e-commerce-and-the-internet-in-real-estate-and-construction
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -55,4 +56,3 @@ Marketing Expenses (success of sales relates to effectiveness of marketing effor
 Research and Development Expenses
 General and Adminstrative Expenses
 These pro-formas indicate one possible strategy. They can serve as a baseline for discussion of other strategies.
-

@@ -5,6 +5,7 @@ file: /courses/1-464-e-commerce-and-the-internet-in-real-estate-and-construction
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: JMacomber_US_Construction_Demographics.pdf
 uid: 1b2be612-1d57-b889-5c4e-468ed905bcf2
 ---
 Strategic analysis document.
-

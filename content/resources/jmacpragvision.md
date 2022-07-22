@@ -5,6 +5,7 @@ file: /courses/1-464-e-commerce-and-the-internet-in-real-estate-and-construction
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: jmacpragvision.pdf
 uid: 3cc719bb-2bb0-3613-db0a-10ece8042d61
 ---
 Industry strategic analysis.
-

@@ -5,6 +5,7 @@ file: /courses/1-464-e-commerce-and-the-internet-in-real-estate-and-construction
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 4_supply_chain.pdf
 uid: 9d3f8283-dd46-f6f5-527a-1fff4814be84
 ---
 Visibility, Coordination, and Optimization.
-
