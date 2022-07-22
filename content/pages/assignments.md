@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: This section contains the written assignments to be handed in at each
+  class session, along with questions that students reviewed prior to class to prepare
+  for the case-based discussions.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: e2566d6f-a7b9-1ce2-60d5-f15b654c047a
 ---

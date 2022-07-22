@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, the course instructor, teaching methodology, teaching intent,
+  target audience, prerequisites, requirements, grading, and guidelines for writing
+  and class presentations.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: da3eedcf-47ae-d364-ba0a-60ef96bdd1d3
 ---
@@ -47,7 +53,7 @@ Grading
 
 Grading will be based on four criteria.
 
-Project - 50%. The most important is the project (see [assignments]({{< baseurl >}}/pages/assignments)) which will count for 50% of the grade. The projects will be assessed primarily on quality of analysis, and secondarily on originality of topic, presentation of materials, and extent to which the work can stand alone to help future students. The projects can be studies that complement masters thesis work, although the work must be relevant to demonstrating learning from this class.
+Project - 50%. The most important is the project (see {{% resource_link e2566d6f-a7b9-1ce2-60d5-f15b654c047a "assignments" %}}) which will count for 50% of the grade. The projects will be assessed primarily on quality of analysis, and secondarily on originality of topic, presentation of materials, and extent to which the work can stand alone to help future students. The projects can be studies that complement masters thesis work, although the work must be relevant to demonstrating learning from this class.
 
 Class participation will count for 30% of the grade. This means, speaking up in class and doing so in a way that shows thoughtfulness and contributes to the discussion and to the learning of other students. Note that good class participation need not agree with the flow of the conversation and also may freely challenge premises put forth by the instructor.
 
