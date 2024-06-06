@@ -31,6 +31,7 @@ description: 'These pro-forma financial statements are for the use of Collaborat
   These pro-formas indicate one possible strategy. They can serve as a baseline for
   discussion of other strategies.'
 file: /courses/1-464-e-commerce-and-the-internet-in-real-estate-and-construction-spring-2004/5613194850d082feb1237e937eb4f76f_5colstrproform.pdf
+file_size: 407743
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
