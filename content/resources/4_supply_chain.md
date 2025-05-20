@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Visibility, Coordination, and Optimization.
-file: /ol-ocw-studio-app/courses/1-464-e-commerce-and-the-internet-in-real-estate-and-construction-spring-2004/9d3f8283dd46f6f5527a1fff4814be84_4_supply_chain.pdf
+file: /courses/1-464-e-commerce-and-the-internet-in-real-estate-and-construction-spring-2004/9d3f8283dd46f6f5527a1fff4814be84_4_supply_chain.pdf
 file_size: 22971
 file_type: application/pdf
 learning_resource_types:

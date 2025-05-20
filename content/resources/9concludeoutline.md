@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Concluding lecture slides.
-file: /ol-ocw-studio-app/courses/1-464-e-commerce-and-the-internet-in-real-estate-and-construction-spring-2004/e652282068cd7d397a2cc2200545d6f3_9concludeoutline.pdf
+file: /courses/1-464-e-commerce-and-the-internet-in-real-estate-and-construction-spring-2004/e652282068cd7d397a2cc2200545d6f3_9concludeoutline.pdf
 file_size: 124148
 file_type: application/pdf
 learning_resource_types:
