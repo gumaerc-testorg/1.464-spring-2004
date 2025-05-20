@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Strategic analysis document.
-file: /ol-ocw-studio-app/courses/1-464-e-commerce-and-the-internet-in-real-estate-and-construction-spring-2004/1b2be6121d57b8895c4e468ed905bcf2_JMacomber_US_Construction_Demographics.pdf
+file: /courses/1-464-e-commerce-and-the-internet-in-real-estate-and-construction-spring-2004/1b2be6121d57b8895c4e468ed905bcf2_JMacomber_US_Construction_Demographics.pdf
 file_size: 231635
 file_type: application/pdf
 learning_resource_types:
