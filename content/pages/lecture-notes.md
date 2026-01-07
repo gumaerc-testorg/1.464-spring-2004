@@ -41,7 +41,7 @@ How Information Gives You Competitive Advantage
 
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "c94a0008-db7e-49a1-9544-2fa92b553c9d" "*George B. H. Macomber Co.*" %}}
+[*George B. H. Macomber Co.*](http://businessdirectory.bizjournals.com/boston/construction/964997/george-b-h--macomber-company-inc.html)
 
 "George B. H. Macomber Company: 1990." Harvard Business School Note 9-191-120.
 
@@ -154,7 +154,7 @@ In the Andersen Consulting case, the issue in more depth: how to manage this kno
 
 If so, what are the key elements in a successful knowledge management strategy?
 
-Andersen Consulting was not included in the demise of Arthur Andersen & Co., having already been spun off as {{% resource_link "01ffc636-24b7-4710-8082-e7b43ed5f898" "Accenture" %}}.
+Andersen Consulting was not included in the demise of Arthur Andersen & Co., having already been spun off as [Accenture](http://www.accenture.com/us-en/company/Pages/index.aspx).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
@@ -171,5 +171,5 @@ Consideration for Companies and Careers ({{% resource_link e6522820-68cd-7d39-7a
 {{< tdclose >}}{{< tdopen >}}
 *Freemarkets.com*
 {{< tdclose >}}{{< tdopen >}}
-Early e-commerce efforts paid great attention to procurement, auctions, exchanges, and many other business models. Most successes to date have been with existing companies like {{% resource_link "bafdb9b7-b83e-43f1-9145-d491db414bec" "Grainger" %}} or {{% resource_link "077b1e07-5755-4816-873c-e28751ada6a9" "Fidelity" %}}. Notable new successes include eBay, the world's online marketplace. What are some of the other avenues along this line of reasoning?
+Early e-commerce efforts paid great attention to procurement, auctions, exchanges, and many other business models. Most successes to date have been with existing companies like [Grainger](http://www.grainger.com/Grainger/wwg/start.shtml) or [Fidelity](https://www.fidelity.com/). Notable new successes include eBay, the world's online marketplace. What are some of the other avenues along this line of reasoning?
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
